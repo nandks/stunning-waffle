@@ -1,0 +1,105 @@
+<html lang="en-US" class="no-js">
+
+<head>
+    <title>fyp...</title>
+    <!-- css begin -->
+    <link href="../res/css/transport.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../res/css/main.css">
+
+    <!-- css end -->
+    <!-- js begin -->
+
+    <script type="text/javascript" src="res/js/jquery-3.1.1.min.js"></script>
+     <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="res/js/main.js"></script>
+   
+    <!-- js end -->
+</head>
+
+<body>
+    <div class="title">
+        <h2>DATA VISUALISATION ON CONSUMER PERSPECTIVE OF DIABETES DRUGS</h2>
+    </div>
+    <div class="login-page">
+        <div class="form">
+            <form class="register-form">
+                <input type="text" id="user_reg" placeholder="name" />
+                <input type="password" id="pass_reg" placeholder="password" />
+                <input type="text" id="email_reg" placeholder="email address" />
+                <button id="register">create</button>
+                <p class="message">Already registered? <a href="#">Sign In</a></p>
+            </form>
+            <form class="login-form">
+                <input type="text" id="email" placeholder="email address" />
+                <input type="password" id="pass" placeholder="password" />
+                <button id="login">login</button>
+                <p class="message">Not registered? <a href="#">Create an account</a></p>
+            </form>
+        </div>
+    </div>
+    <div class="drug-page">
+     <button id="map" style="    padding-top: 2px;
+    width: inherit;
+    padding-left: 100px;
+    height: inherit;
+    border-left-width: 50px;
+    margin-left: 400px;
+    padding-right: 100px;
+    border-top-width: 20px;
+    margin-top: 20px;
+    border-right-width: 50px;">DIABETES ANALYSIS-INDIA</button>
+        <div class="drug-form">
+            <form class="drugpage_form">
+
+                <input type="text" id="drugname" name="drugname" placeholder="Enter drug name" />
+                <button id="druggg">SUBMIT</button>
+                <fieldset>
+                    <p>
+                        <label>Select</label>
+                        <select id="myList">
+                            <option value="1">Rating bar</option>
+                            <option value="2">Collapsible Tree</option>
+                            <option value="3">Overall Analysis Dashboard</option>
+                            <option value="4">four</option>
+                        </select>
+                    </p>
+                </fieldset>
+                <button id="drugbutton">SUBMIT</button>
+            </form>
+        </div>
+        <div id="design" style="padding-left:150px;"></div>
+    </div>
+    
+     <div class ="description" style="padding-left:150px; padding-top:10px; ">
+            <table>
+          <tr>
+            <td>
+              <select>
+                <option id="item" value="potassium">Potassium drug</option>
+                <option id="item" value="user">user drug</option>
+                <option id="item" value="metformin">metformin</option>
+                <option id="item" value="glucophage">glucophage</option>
+                <option id="item" value="lantus">lantus</option>
+                <option id="item" value="avandia">avandia</option>
+              </select>
+            </td>
+        </tr>
+        <tr>
+              <td>
+                <ul>
+                  <li><input type="checkbox" class="checkbox" name="check" value="sort"> </li>
+                  <li>Sort by scores</li>
+                </ul>
+              </div>
+            </td>
+
+        </tr>
+          </table>
+      </div>
+      <div id="mydiv" style="padding-left:300px;"></div>
+      <div id="mydiv1" style="padding-left:100px;"></div>
+      <div id="mydiv2" style="padding-left:100px;"></div>
+
+</body>
+
+</html>

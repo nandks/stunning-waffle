@@ -1,0 +1,153 @@
+{
+ "name": "DIABETES",
+ "link":"https://en.wikipedia.org/wiki/Diabetes_mellitus",
+ "img": "https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fwww.niddk.nih.gov%2Fhealth-information%2Fhealth-communication-programs%2Fndep%2Fpartnership-community-outreach%2Fcampaigns%2Fcontrol-diabetes-life%2FPublishingImages%2Flogo-control-big.gif&imgrefurl=https%3A%2F%2Fwww.niddk.nih.gov%2Fhealth-information%2Fhealth-communication-programs%2Fndep%2Fpartnership-community-outreach%2Fcampaigns%2Fcontrol-diabetes-life%2FPages%2Fcontrolyourdiabetesforlife.aspx&docid=bgbxa_m9tE_TnM&tbnid=xHPNQzTXfztD3M%3A&vet=1&w=270&h=209&bih=613&biw=1366&q=diabetes%20images&ved=0ahUKEwjLq7KO2KPSAhUJpY8KHfAiACwQMwhBKBEwEQ&iact=mrc&uact=8#h=209&imgrc=xHPNQzTXfztD3M:&vet=1&w=270",
+ "children": [
+  {
+   "name": "Drugs Name",
+   "link":"https://en.wikipedia.org/wiki/Anti-diabetic_medication",
+   "children": [
+    {
+      "hero": "Potassium",
+      "name": "potassium and diabetes", 
+      "link": "http://www.healthline.com/health/diabetes/diabetes-and-potassium#Overview1",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Metformin",
+      "name": "Metformin for diabetes", 
+      "link": "https://www.drugs.com/metformin.html",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Glucophage", 
+      "name": "Glucophage for diabetes",
+      "link": "http://www.healthline.com/drugs/metformin/oral-tablet?brand=glucophage#Highlights1",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Lantus", 
+      "name": "Lantus for diabetes",
+      "link": "https://www.drugs.com/lantus.html",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Avandia", 
+      "name": "Avandia for diabetes",
+      "link": "https://www.drugs.com/avandia.html",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Actos", 
+      "name": "Actos for diabetes",
+      "link": "https://www.drugs.com/actos.html",
+    "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Amaryl", 
+      "name": "Amaryl for diabetes",
+      "link": "https://www.drugs.com/amaryl.html",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Glipzide", 
+      "name": "Glipzide for diabetes",
+      "link": "https://www.drugs.com/glipizide.html",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+     {
+      "hero": "Humalog", 
+      "name": "Humalog for diabetes",
+      "link": "https://www.drugs.com/humalog.html",
+    "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Novolog", 
+      "name": "Novolog for diabetes",
+      "link": "https://www.drugs.com/novolog.html",
+     "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    }
+  ]
+  },
+  {
+   "name": "Diseases",
+   "link": "http://www.medicalnewstoday.com/info/diabetes",
+   "children": [
+    {
+      "hero": "High and Low BP",
+      "name": " Blood pressure and diabetes", 
+      "link": "http://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Thyroid disorder",
+      "name": "Thyroid disorder and diabetes",
+      "link": "http://www.webmd.com/diabetes/news/20130315/people-with-type-1-diabetes-at-risk-of-thyroid-disease",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Kidney disorder",
+      "name": "kidney disorder and diabetes", 
+      "link": "http://www.webmd.com/diabetes/guide/diabetes-kidney-disease",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "Infertility",
+      "name": "Infertility and diabetes", 
+      "link": "http://www.webmd.com/diabetes/news/20070502/diabetes-may-affect-mens-fertility",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+  
+    {
+      "hero": "PCOS",
+      "name": "PCOS and diabetes", 
+      "link": "http://www.webmd.com/women/tc/polycystic-ovary-syndrome-pcos-topic-overview#1",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    }
+   ]
+  },
+  {
+   "name": "Forums",
+   "link": "http://www.healthfulchat.org/diabetes-chat-room.html",
+   "children": [
+    {
+      "hero": "www.diabetesforum.com",
+      "name": "", 
+      "link": "http://www.diabetesforum.com/introduce-yourself/7143-hello-india-d-2-a.html",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "www.diabetesdaily.com",
+      "name": "", 
+      "link": "https://www.diabetesdaily.com/forum/type-2-diabetes/36773-diabetic-indian/",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    },
+    {
+      "hero": "ehealthforum.com",
+      "name": "", 
+      "link": "http://ehealthforum.com/health/topic127999.html",
+   "img":  "https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.diabetespreventioneducation.com%2Fwp-content%2Fuploads%2F2015%2F03%2FFinal-Logo-Small-Canvas-final.png&img",
+      "size": 40000
+    }
+    
+   ]
+  }  
+ ]
+}
